@@ -1,0 +1,6 @@
+MyColorIsIntent My favorite color is {Color}
+WhatsMyColorIntent what is my favorite color
+ComeBackIntent hi safe keeper I am home
+ComeGreetingIntent Thank you for caring for me today
+LeavingIntent  I am leaving
+LeavingIntent  hi safe keeper I am leaving
